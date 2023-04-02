@@ -1,0 +1,14 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Program Files\\MySQL\\Connector Java 8.0\\mysql-connector-java-8.0.30.jar"
+  ],
+  "cSpell.words": [
+    "jdbc",
+    "navigationsystems",
+    "powersystems",
+    "reqtable",
+    "Signin",
+    "stabilityfactors"
+  ]
+}
